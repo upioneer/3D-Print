@@ -8,7 +8,7 @@ ExtrusionMonitorMount is a 3D printable project designed specifically for sim ra
 
 **Model** NEPTUNE 3 Max
 
-**Supports** Yes
+**Supports** Tree
 
 **Notes** Print in upright orientation with tree supports
 
