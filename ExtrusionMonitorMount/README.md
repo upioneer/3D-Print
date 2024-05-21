@@ -12,11 +12,6 @@ ExtrusionMonitorMount is a 3D printable project designed specifically for sim ra
 
 **Notes** `Print in upright orientation with tree supports`
 
-##
-![illustration1](assets/illustration1.jpg)
-
-![illustration2](assets/illustration2.jpg)
-
 ## Authors
 
 [@upioneer](https://www.github.com/upioneer)
@@ -24,3 +19,17 @@ ExtrusionMonitorMount is a 3D printable project designed specifically for sim ra
 ## Related
 
 [UltiMaker Thingiverse designs](https://www.thingiverse.com/upioneer/designs)
+
+##
+
+![2](assets/illustration2.jpg)
+
+![3](assets/illustration3.jpg)
+
+![4](assets/illustration4.jpg)
+
+![5](assets/illustration5.jpg)
+
+![6](assets/illustration6.jpg)
+
+![1](assets/illustration1.jpg)
