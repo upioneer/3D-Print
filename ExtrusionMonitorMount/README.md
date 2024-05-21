@@ -22,14 +22,14 @@ ExtrusionMonitorMount is a 3D printable project designed specifically for sim ra
 
 ##
 
-![2](assets/illustration2.jpg)
+![2](assets/p2.jpg)
 
-![3](assets/illustration3.jpg)
+![3](assets/p3.jpg)
 
-![4](assets/illustration4.jpg)
+![4](assets/p4.jpg)
 
-![5](assets/illustration5.jpg)
+![5](assets/p5.jpg)
 
-![6](assets/illustration6.jpg)
+![6](assets/p6.jpg)
 
-![1](assets/illustration1.jpg)
+![1](assets/p1.jpg)
