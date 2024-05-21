@@ -1,5 +1,5 @@
 # All things 3D printing
-
+Take a look around. I will be adding additional models and projects to subfolders here.
 
 ## Current Printer
 
